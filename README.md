@@ -1,1 +1,2 @@
-https://hotel-website-by-unnati.netlify.app/about.html
+VISIT THIS LINK TO CHECK THE WEBSITE
+https://hotel-website-by-unnati.netlify.app
