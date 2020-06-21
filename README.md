@@ -1,2 +1,3 @@
-VISIT THIS LINK TO CHECK THE WEBSITE
-https://hotel-website-by-unnati.netlify.app
+<b>VISIT THIS LINK TO CHECK THE WEBSITE</b>
+
+<a href="https://hotel-website-by-unnati.netlify.app"> HERE</a>
