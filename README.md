@@ -1,6 +1,6 @@
-<b>VISIT THIS LINK TO CHECK THE WEBSITE</b>
+<b>VISIT THIS LINK<a href="https://hotel-website-by-unnati.netlify.app"> HERE</a> TO CHECK THE WEBSITE</b>
 
-<a href="https://hotel-website-by-unnati.netlify.app"> HERE</a>
+
 <br>
 <i>A snip of the Website</i>
 <br>
